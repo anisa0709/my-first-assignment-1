@@ -90,4 +90,18 @@ nav .menu a {
     font-weight: 400;
     color: white
 }
+#skill {
+    padding-top:130 ;
+}
 
+#skill .skills-container .skill-box{
+    width: 71%;
+    max-width: 1140px;
+    margin: auto;
+    text-align: center;
+    display: flex;
+
+  
+}
+
+ 
