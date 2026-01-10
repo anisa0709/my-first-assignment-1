@@ -61,3 +61,17 @@ nav .menu a {
     font-size: 20px;
     color: #181818;
 }
+#banner{
+    border:1px solid rgb(158, 158, 233) ;
+    /* Frame 1171277698 */
+width: 1360px;
+height: 295px;
+/* Auto layout */
+display: flex;
+flex-direction: column;
+justify-content: flex-start;
+align-items: center;
+gap: 16;
+
+
+}
