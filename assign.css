@@ -88,20 +88,57 @@ nav .menu a {
     font-size: 18x;
     line-height: 24px;
     font-weight: 400;
-    color: white
+    color: #ffffff
 }
-#skill {
+#skills {
     padding-top:130 ;
 }
 
-#skill .skills-container .skill-box{
-    width: 71%;
-    max-width: 1140px;
-    margin: auto;
-    text-align: center;
-    display: flex;
+#skills .skills-container{
+width: 71%;
+max-width:1480 ;
 
-  
+
 }
+#skills .skills-container .skill-box{
+    display: flex;
+    gap: 24px;
+}
+.skill-box .skill-card {
+    padding: 30px;
+ border: 1px solid rgb(156, 78, 78);
+   box-shadow: 0 ,6px, 50px #b6b4b400;
 
+    max-width:100 ;
+    }
+     
+.skill-card img{
+    max-width: 44px;
+    margin-bottom: 30px;
+    background-color: hwb(348 8% 14%);
+}
+#solution img{
+width: 500px;
+height: 500px;
+border-radius: 13px;
+padding:50px
+}
+.hero-content h3{
+    font-size: 20px;
+    font-weight: 700;
+    color: green;
+    
+   }
+   .hero-content h1{
+font-size: 48px;
+font-weight: 600px;
+height: 390;
+color: #181818;
+display: flex;
+
+   }
+.hero-content p{
+    font-size: 16;
+    color:rgb(90, 90, 90);
+}
  
